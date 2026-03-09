@@ -60,6 +60,7 @@ a.   KVL:
 
 
 b.  KCL:
+
 <img width="948" height="1599" alt="image" src="https://github.com/user-attachments/assets/9d765cb6-e047-496a-964b-e22a660f4de6" />
 
 
@@ -68,6 +69,7 @@ b.  KCL:
 Tabulation:
 
 a. KVL AND b.KCL
+
 <img width="860" height="1280" alt="image" src="https://github.com/user-attachments/assets/1c3e072d-e92d-4219-9981-0b90a73c0dbf" />
 
 
