@@ -3,7 +3,6 @@ EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
-
 APPARATUS REQUIRED:
 S.No.	Components	Range	Quantity
 1	Resistor	1kΩ	3
